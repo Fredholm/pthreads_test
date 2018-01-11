@@ -153,6 +153,11 @@
   <ItemGroup>
     <ClCompile Include="pThread.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Desktop\Inlämning 2\Laboration 2 - P-Threads.pdf" />
+    <None Include="..\..\..\..\..\Desktop\Inlämning 2\Makefile" />
+    <None Include="..\..\..\..\..\Desktop\Inlämning 2\repeatfile.sh" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Desktop\Inlämning 2\Laboration 2 - P-Threads.pdf">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\Inlämning 2\Makefile">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\Inlämning 2\repeatfile.sh">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
